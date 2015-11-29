@@ -220,6 +220,7 @@ body {
 	right: 0;
 	text-align: center;
 	top: 100px;
+	z-index: 10;
 }
 
 .tn {
