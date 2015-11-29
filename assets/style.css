@@ -6,7 +6,7 @@ body {
 
 #homecontainer {
 	height: 100%;
-	background: url("img/bg1.jpg") no-repeat center center fixed;
+	background: url("img/bg1.jpg") no-repeat left top fixed;
 	background-size: cover;
 	position: relative;
 	width: 100%;
@@ -248,6 +248,7 @@ body {
 	position: relative;
 	top: 70px;
 	background: url("img/bg3.jpg") no-repeat center center fixed;
+	background-size: cover;
 	width: 100%;
 	left: 0;
 }
