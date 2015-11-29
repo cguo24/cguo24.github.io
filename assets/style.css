@@ -209,6 +209,14 @@ body {
 	font-family: "SUNN";
 }
 
+#event0 {
+	font-size: 60px;
+	top: 35%;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+}
+
 /* GALLERY */
 
 #tnbox {
@@ -233,6 +241,7 @@ body {
 
 .tn:hover {
 	cursor: pointer;
+	opacity: .8;
 }
 
 #gallerycontainer {
